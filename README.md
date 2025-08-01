@@ -6,16 +6,16 @@ All data used in this project is entirely fictional and created for demonstratio
 
 ---
 
-![Dashboard Overview](images/dashboard/Screenshot 2025-08-01 152648.png)  
-![Dashboard Overview](images/dashboard/Screenshot 2025-08-01 152711.png)  
-![Dashboard Overview](images/dashboard/Screenshot 2025-08-01 152732.png)  
-![Dashboard Overview](images/dashboard/Screenshot 2025-08-01 152756.png)  
-![Dashboard Overview](images/dashboard/Screenshot 2025-08-01 152809.png)  
-![Dashboard Overview](images/dashboard/Screenshot 2025-08-01 152847.png)  
-![Dashboard Overview](images/dashboard/Screenshot 2025-08-01 152900.png)  
-![Dashboard Overview](images/dashboard/Screenshot 2025-08-01 152944.png)  
-![Dashboard Overview](images/dashboard/Screenshot 2025-08-01 152957.png)  
-![Dashboard Overview](images/dashboard/Screenshot 2025-08-01 153045.png)  
+![Dashboard Overview](images/dashboard/Screenshot-152648.png)  
+![Dashboard Overview](images/dashboard/Screenshot-152711.png)  
+![Dashboard Overview](images/dashboard/Screenshot-152732.png)  
+![Dashboard Overview](images/dashboard/Screenshot-152756.png)  
+![Dashboard Overview](images/dashboard/Screenshot-152809.png)  
+![Dashboard Overview](images/dashboard/Screenshot-152847.png)  
+![Dashboard Overview](images/dashboard/Screenshot-152900.png)  
+![Dashboard Overview](images/dashboard/Screenshot-152944.png)  
+![Dashboard Overview](images/dashboard/Screenshot-152957.png)  
+![Dashboard Overview](images/dashboard/Screenshot-153045.png)  
 
 
 ## 🧰 Tools & Technologies Used
