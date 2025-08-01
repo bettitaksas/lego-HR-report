@@ -15,7 +15,6 @@ All data used in this project is entirely fictional and created for demonstratio
 ![Dashboard Overview](images/dashboard/Screenshot-152900.png)  
 ![Dashboard Overview](images/dashboard/Screenshot-152944.png)  
 ![Dashboard Overview](images/dashboard/Screenshot-152957.png)  
-![Dashboard Overview](images/dashboard/Screenshot-153045.png)  
 
 
 ## 🧰 Tools & Technologies Used
